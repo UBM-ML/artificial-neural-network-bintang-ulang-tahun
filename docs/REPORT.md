@@ -4,12 +4,15 @@
 
 ## Identitas Kelompok
 
-- **Nama Kelompok:** _isi di sini_
+- **Nama Kelompok:** Bintang Ulang Tahun
 - **Anggota:**
-  1. _Nama — NIM — varian yang dikerjakan_
-  2. _Nama — NIM — varian yang dikerjakan_
-  3. _Nama — NIM — varian yang dikerjakan_
-  4. _Nama — NIM — varian yang dikerjakan_
+  1. Hie Hansen Handoko — 32230007 — 01_single_layer dan 04_mlp_relu
+  2. Reynaldi — 32230009 — 03_mlp_tanh
+  3. Vincent Prtama — 32230011 — 04_mlp_relu
+  4. Muhammad Dimas Tricahyo — 32230045 — 01_single_layer dan 05_comparison
+  5. Mohammad Bintang Indy Taura Putra - 32230064 - 03_mlp_tanh
+  6. Arianala Ramaputra - 32230080 - 02_mlp_sigmoid
+  7. Satria Pratama - 32230084 - 02_mlp_sigmoid
 
 ---
 
